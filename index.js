@@ -8,3 +8,13 @@ for (var counter = 0; counter < musicians.length; counter++) {
 }
  return artists;
 }
+
+
+function johnLennonFacts(facts) {
+  var factCounter = 0;
+  
+  while(factCounter < facts.length) {
+    facts[factCounter] = facts[factCounter] + '!!!';
+    factCounter++;
+  }
+}
