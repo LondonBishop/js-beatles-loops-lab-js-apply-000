@@ -33,8 +33,10 @@ function iLoveTheBeatles (inputNumber) {
   }
   else
   {
-    ilb[0] = 'I love the Beatles!';
-    return ilb;
+    //ilb[0] = 'I love the Beatles!';
+    //return ilb;
+    return 'I love the Beatles!'([]);
+    
   }
 
 }
