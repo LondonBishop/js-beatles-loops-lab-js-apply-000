@@ -35,7 +35,7 @@ function iLoveTheBeatles (inputNumber) {
   {
     //ilb[0] = 'I love the Beatles!';
     //return ilb;
-    return 'I love the Beatles!'([]);
+    return 'I love the Beatles!';
     
   }
 
