@@ -26,14 +26,14 @@ function iLoveTheBeatles (inputNumber) {
   if (inputNumber < 15) {
     var counter = -1;
     do {
-      ilb[counter] = 'I Love the Beatles!';
+      ilb[counter] = 'I love the Beatles!';
       ++counter;
     } while (counter < inputNumber-1);
     return ilb;
   }
   else
   {
-    ilb[0] = 'I Love the Beatles!';
+    ilb[0] = 'I love the Beatles!';
     return ilb;
   }
 
