@@ -24,6 +24,8 @@ function iLoveTheBeatles (inputNumber) {
   var testArray = [];
   
   do {
+    testArray[x] = 'I Love the Beatles';
+  } while (true);
     
    
   
