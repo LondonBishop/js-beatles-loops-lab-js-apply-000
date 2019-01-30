@@ -26,7 +26,6 @@ function iLoveTheBeatles (inputNumber) {
   
   do {
     ilb[counter] = 'I Love the Beatles!';
-    counter++;
   } while (counter < inputNumber-1);
     return ilb;
 }
