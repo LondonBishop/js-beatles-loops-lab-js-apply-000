@@ -33,9 +33,9 @@ function iLoveTheBeatles (inputNumber) {
   }
   else
   {
-    return 
+    ilb[0] = 'I Love the Beatles!';
+    return ilb;
   }
-  
- 
+
 }
 
