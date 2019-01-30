@@ -29,6 +29,7 @@ function iLoveTheBeatles (inputNumber) {
       ilb[counter] = 'I love the Beatles!';
       ++counter;
     } while (counter < inputNumber-1);
+    
     return ilb;
   }
   else
