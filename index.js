@@ -22,12 +22,20 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles (inputNumber) {
   var ilb = [];
-  var counter = -1;
   
-  do {
-    ilb[counter] = 'I Love the Beatles!';
-    ++counter;
-  } while (counter < inputNumber-1);
+  if (inputNumber < 15) {
+    var counter = -1;
+    do {
+      ilb[counter] = 'I Love the Beatles!';
+      ++counter;
+    } while (counter < inputNumber-1);
     return ilb;
+  }
+  else
+  {
+    return 
+  }
+  
+ 
 }
 
