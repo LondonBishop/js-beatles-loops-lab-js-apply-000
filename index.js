@@ -25,6 +25,7 @@ function iLoveTheBeatles (inputNumber) {
   
   if (inputNumber < 15) {
     var counter = 0;
+    
     do {
       ilb[counter] = 'I love the Beatles!';
       counter++;
@@ -34,8 +35,6 @@ function iLoveTheBeatles (inputNumber) {
   }
   else
   {
-    //ilb[0] = 'I love the Beatles!';
-    //return ilb;
     return 'I love the Beatles!';
     
   }
