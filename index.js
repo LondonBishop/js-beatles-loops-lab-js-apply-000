@@ -36,7 +36,6 @@ function iLoveTheBeatles (inputNumber) {
   else
   {
     return 'I love the Beatles!';
-    
   }
 
 }
