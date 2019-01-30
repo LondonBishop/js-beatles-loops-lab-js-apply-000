@@ -8,4 +8,3 @@ for (var counter = 0; counter < musicians.length; counter++) {
 }
  return artists;
 }
-
